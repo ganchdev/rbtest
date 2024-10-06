@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ganch-dev/rbtest/compare/v1.0.0...v1.0.1) (2024-10-06)
+
+
+### Bug Fixes
+
+* permissions for gh packages ([08c263e](https://github.com/ganch-dev/rbtest/commit/08c263e1e8736335876cd4a42677395512b5ae1c))
+
 ## 1.0.0 (2024-10-06)
 
 
