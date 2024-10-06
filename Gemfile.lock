@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    rbtest (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+  x86_64-darwin-21
+
+DEPENDENCIES
+  rbtest!
+
+BUNDLED WITH
+   2.5.10
