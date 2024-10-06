@@ -1,0 +1,12 @@
+# Example .rubocop.yml
+
+AllCops:
+  # Specify the Ruby version your project is using
+  TargetRubyVersion: 3.1
+  # Exclude certain directories (e.g., vendored files or generated code)
+  Exclude:
+    - 'db/schema.rb'
+    - 'bin/*'
+    - 'node_modules/**/*'
+    - 'vendor/**/*'
+    - 'Gemfile.lock'
