@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.90](https://github.com/ganch-dev/rbtest/compare/v0.0.7...v0.0.90) (2024-10-13)
+
+
+### Miscellaneous Chores
+
+* release 0.0.90 ([de68a62](https://github.com/ganch-dev/rbtest/commit/de68a62130600f6727d4688353c06a1aaf0680fa))
+
 ## [0.0.7](https://github.com/ganch-dev/rbtest/compare/v0.0.3...v0.0.7) (2024-10-13)
 
 
