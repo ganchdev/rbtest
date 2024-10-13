@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.0.7](https://github.com/ganch-dev/rbtest/compare/v0.0.3...v0.0.7) (2024-10-13)
+
+
+### Bug Fixes
+
+* adds ruby/setup-ruby instead ([a4fe910](https://github.com/ganch-dev/rbtest/commit/a4fe9106a9d9fd03e746c8e0126ca55665dde728))
+
+
+### Miscellaneous Chores
+
+* **main:** release 0.0.3 ([94c7717](https://github.com/ganch-dev/rbtest/commit/94c77175fe54db52f5eea55868b572e14366b780))
+* release 0.0.3 ([d2411d8](https://github.com/ganch-dev/rbtest/commit/d2411d80ba10d2a86af75cf1ad97f63bef4dd9c6))
+* release 0.0.7 ([7da7361](https://github.com/ganch-dev/rbtest/commit/7da73610501fbf1464bdd4d707f33235d545445a))
+
 ## [0.0.3](https://github.com/ganch-dev/rbtest/compare/v0.0.3...v0.0.3) (2024-10-13)
 
 
