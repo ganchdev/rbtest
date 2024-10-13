@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'Just a test again'
   spec.homepage      = 'http://example.com'
   spec.license       = 'MIT'
-  spec.required_ruby_version = '3.1.0'
+  spec.required_ruby_version = "3.1.0"
 
   spec.files         = Dir['lib/**/*.rb'] + Dir['bin/*']
   spec.executables   = ['rbtest']
